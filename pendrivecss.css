@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img{
+    height: 100px;
+    padding-left: 40px;
+    padding-top: 30px;
+    padding-right: 10px;
+}
+.sethu{
+    background-color: coral;
+    width: 50%;
+    height: 100;
+    display: flex;
+    margin: 10rem;
+    box-shadow: black 10px 10px 10px;
+}
+.jerry{
+    padding: 20px;
+    text-align: center;
+}
